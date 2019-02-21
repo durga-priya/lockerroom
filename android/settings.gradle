@@ -1,0 +1,3 @@
+rootProject.name = 'Locker_Room'
+
+include ':app'
